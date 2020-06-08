@@ -35,8 +35,8 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World");
-    System.out.println("Hello,java");
-    System.out.Println("Hello,cnam");
+    System.out.println("Hello, Java");
+    System.out.Println("Hello, Cname");
 
 
  }
